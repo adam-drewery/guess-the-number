@@ -1,5 +1,5 @@
 Guess The Number
-
+ 
 - Domain logic is kept in the `GuessTheNumber` project.
 - There is a terminal-based UI in `GuessTheNumber.Terminal`.
 - `GuessTheNumber.HighScores` contains a repository class for saving and retrieving games with high scores.
